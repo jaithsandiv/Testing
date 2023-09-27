@@ -1,0 +1,15 @@
+@charset "utf-8";
+.container-fluid .container {
+    background-color: #1C247F;
+}
+.container-fluid .container .navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-color: #13D830;
+}
+.container-fluid .container .text-center {
+    color: #FFFFFF;
+}
+.container-fluid .container .navbar.navbar-expand-lg.navbar-light {
+}
+.container-fluid .container .navbar.navbar-expand-lg.navbar-light {
+    color: #FFFFFF;
+}
